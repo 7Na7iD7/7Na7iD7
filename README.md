@@ -1,5 +1,5 @@
-🚀 Welcome to My World!
-I'm Navid, a creative developer passionate about solving real-world problems and turning ideas into reality. Always on the lookout for innovation and growth in the world of technology. 💻✨  
+# 🚀 Welcome to My World!  
+I'm **Navid**, a creative developer passionate about solving real-world problems and turning ideas into reality. Always on the lookout for innovation and growth in the world of technology. 💻✨  
 
 ---
 
