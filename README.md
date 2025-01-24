@@ -4,7 +4,7 @@ I'm Navid, a developer passionate about building practical and innovative softwa
 
 ---
 
-### 💬 Let's Connect:
+### 💬 **Let's Connect**:
 
 <p align="left">
   <a href="https://t.me/Na7iDd" target="_blank">
