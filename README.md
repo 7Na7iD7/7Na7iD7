@@ -28,7 +28,7 @@ I'm Navid, a developer passionate about building practical and innovative softwa
 
 ---
 
-### 📊 My GitHub Stats:
+### 🖊 My GitHub Stats:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=7Na7iD7&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats">
