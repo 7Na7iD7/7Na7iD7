@@ -33,7 +33,7 @@ I'm Navid, a developer passionate about building practical and innovative softwa
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=7Na7iD7&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats">
   <br>
-  <img src="https://streak-stats.demolab.com?user=7Na7iD7&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7Na7iD7&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
 </p>
 
 ---
