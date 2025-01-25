@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/kxQMhNf/Na7iD.webp" alt="Na7iD" width="30" height="30" style="vertical-align: middle; margin-left: 10px;"> Welcome to My World! <img src="https://i.ibb.co/kxQMhNf/Na7iD.webp" alt="Na7iD" width="30" height="30" style="vertical-align: middle; margin-left: 10px;">
+# Welcome to My World! 
 I'm **Navid**, a passionate tech enthusiast who’s on a relentless quest to change the world with innovative code and bold ideas! 🚀 The world is my playground, and I’m here to create, learn, and build without limits. 💻💡
 
 ---
