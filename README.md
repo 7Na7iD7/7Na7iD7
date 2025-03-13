@@ -17,15 +17,6 @@ I'm **Navid**, a passionate tech enthusiast who’s on a relentless quest to cha
 
 ---
 
-### 📈 My GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=7Na7iD7&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=7Na7iD7&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
 ### ⚡ Fun Facts:
 - 🔧 I live and breathe innovation. Every project is an opportunity to break barriers.
 - 💻 I’m constantly leveling up, mastering new tools and technologies.
