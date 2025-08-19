@@ -4,7 +4,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=220&section=header&text=NAVID%20AFZALI&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=🚀%20Flutter%20Architect%20|%20Mobile%20Innovator%20|%20AI%20Enthusiast&descAlignY=52&descSize=18"/>
 
 <!-- Real-time Typing Animation with Current Stats -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=🔥+Flutter+Expert+%7C+4%2B+Years+Experience;🐍+Python+Automation+Specialist;🌟+Open+Source+Contributor;💡+Building+the+Future+with+AI+%26+Mobile;⚡+Always+Learning%2C+Always+Building" alt="Dynamic Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Flutter+Expert+with+4%2B+Years+Experience;Python+Automation+Specialist;Open+Source+Contributor;Building+the+Future+with+AI+and+Mobile;Always+Learning+Always+Building" alt="Dynamic Typing Animation" />
+
+<!-- Alternative Typing Animation (Backup) -->
+<img src="https://typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Flutter+Architect;🐍+Python+Expert;🤖+AI+Enthusiast;💡+Mobile+Innovator" alt="Typing Animation Backup" />
 
 <!-- Live Profile Stats Dashboard -->
 <div style="display: flex; justify-content: center; gap: 10px; margin: 20px 0; flex-wrap: wrap;">
