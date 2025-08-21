@@ -143,10 +143,7 @@ Collaboration ██████████████████░░ 88%
 
 <div align="center">
 
-## 📊 Advanced GitHub Analytics Dashboard
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=7Na7iD7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&custom_title=Navid's%20GitHub%20Statistics"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Na7iD7&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&custom_title=Language%20Distribution"/>
+## 📊 Analytics Dashboard
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Na7iD7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&dates=ffffff"/>
 
@@ -156,30 +153,6 @@ Collaboration ██████████████████░░ 88%
 
 ---
 
-## 🚀 Featured Projects Showcase
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>📱 Flutter Applications</h3>
-
-**🚀 Coming Soon**
-<br/>Revolutionary mobile applications in development
-<br/><code>Flutter • Dart • Material Design</code>
-
-**💡 Innovation Projects**  
-<br/>Creative solutions for real-world problems
-<br/><code>Flutter • Dart • Cross-platform</code>
-
-</td>
-<td width="50%" align="center">
-<h3>🐍 Python Projects</h3>
-
-**⚡ Automation Suite**
-<br/>Smart automation scripts and tools
-<br/><code>Python • Automation • Scripting</code>
 
 **🔧 Utility Tools**
 <br/>Helpful utilities for daily development
@@ -193,57 +166,8 @@ Collaboration ██████████████████░░ 88%
 
 ---
 
-## 🎯 Current Development Pipeline
 
-<div align="center">
-
-### 🔥 Active Projects Status Board
-
-</div>
-
-```python
-class ProjectManager:
-    def __init__(self):
-        self.active_projects = {
-            "flutter_mobile_app": {
-                "status": "🚧 In Development",
-                "progress": 75,
-                "tech_stack": ["Flutter", "Dart", "Material Design"],
-                "features": ["Cross-platform", "Modern UI", "Performance optimized"],
-                "timeline": "Launch: Soon",
-                "priority": "HIGH"
-            },
-            
-            "python_automation_tools": {
-                "status": "🔧 Active Development", 
-                "progress": 60,
-                "tech_stack": ["Python", "Automation", "Scripting"],
-                "features": ["Task automation", "File management", "Workflow optimization"],
-                "timeline": "Beta: Coming Soon",
-                "priority": "MEDIUM"
-            },
-            
-            "github_workflow_optimization": {
-                "status": "📦 Continuous Improvement",
-                "progress": 85,
-                "tech_stack": ["Git", "GitHub", "Version Control"],
-                "features": ["Better workflows", "Code organization", "Documentation"],
-                "timeline": "Ongoing",
-                "priority": "HIGH"
-            }
-        }
-    
-    def get_current_focus(self):
-        return "Building amazing mobile applications with Flutter & Dart"
-```
-
----
-
-<div align="center">
-
-## 🏆 Achievement Gallery & Skills
-
-<img src="https://github-profile-trophy.vercel.app/?username=7Na7iD7&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&bg_color=0D1117&title_color=00D9FF"/>
+## 🏆  Skills
 
 </div>
 
@@ -277,57 +201,6 @@ class ProjectManager:
 </table>
 
 ---
-
-## 📈 Developer Activity & Focus Areas
-
-<div align="center">
-
-### 💻 Development Focus This Month
-
-</div>
-
-```text
-Flutter Development   ████████████████████████████████████████ 40 hrs
-Python Programming    ████████████████████████████░░░░░░░░░░░░ 28 hrs  
-Git & Version Control ████████████████████░░░░░░░░░░░░░░░░░░░░ 18 hrs
-Learning & Research   ████████████████░░░░░░░░░░░░░░░░░░░░░░░░ 16 hrs
-Documentation        ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8 hrs
-```
-
-<div align="center">
-
-### 🎯 2025 Goals & Roadmap
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-#### 🚀 Short Term Goals
-- [x] Master Flutter advanced concepts
-- [ ] Build production-ready mobile apps
-- [ ] Create helpful Python automation tools
-- [ ] Improve Git workflow efficiency
-- [ ] Share knowledge with community
-
-</td>
-<td width="50%" valign="top">
-
-#### 🌟 Long Term Vision  
-- [ ] Become Flutter development expert
-- [ ] Build impactful mobile applications
-- [ ] Create open-source contributions
-- [ ] Help other developers grow
-- [ ] Build amazing digital solutions
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 🌍 Professional Network & Collaboration
 
