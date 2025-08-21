@@ -1,22 +1,89 @@
 <div align="center">
 
-<!-- Dynamic Header with Advanced Animations -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0099FF,100:0066CC&height=200&section=header&text=NAVID%20AFZALI&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20The%20Future%20With%20Code&descAlignY=55&descSize=20"/>
+<!-- Epic Futuristic Header with Multiple Animations -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=NAVID%20AFZALI&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🚀%20Building%20The%20Future%20With%20Code%20🌟&descAlignY=60&descSize=25"/>
 
-<!-- Advanced Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Flutter+Developer+%7C+Mobile+Expert;🐍+Python+Enthusiast+%7C+Automation+Master;⚡+Git+%26+GitHub+Specialist;💡+Turning+Ideas+Into+Digital+Reality" alt="Typing Animation" />
+<!-- Glitch Effect Banner -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00D9FF&fontSize=16&text=『%20FLUTTER%20•%20DART%20•%20PYTHON%20•%20GIT%20』&desc=Elite%20Developer%20•%20Code%20Architect%20•%20Innovation%20Catalyst&descSize=12&descAlignY=75&fontAlignY=35&animation=blinking"/>
 
-<!-- Advanced Metrics Dashboard -->
-<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-<img src="https://komarev.com/ghpvc/?username=7Na7iD7&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/7Na7iD7?style=for-the-badge&color=00D9FF&labelColor=1a1a1a&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/7Na7iD7?style=for-the-badge&color=00D9FF&labelColor=1a1a1a&label=TOTAL+STARS" />
-<img src="https://badges.pufler.dev/years/7Na7iD7?style=for-the-badge&color=00D9FF&labelColor=1a1a1a" />
+<!-- Matrix-style Typing Animation with Glow Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=🔥+FLUTTER+ARCHITECT+%7C+MOBILE+WIZARD;⚡+PYTHON+MASTER+%7C+AUTOMATION+NINJA;🎯+DART+SPECIALIST+%7C+CROSS-PLATFORM+HERO;🚀+GIT+COMMANDER+%7C+GITHUB+EXPERT;💎+TURNING+VISION+INTO+DIGITAL+REALITY" alt="Matrix Typing Animation" />
+
+<!-- Holographic Status Indicators -->
+<table align="center" style="border: none; background: transparent;">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/⚡_STATUS-BUILDING_THE_FUTURE-00D9FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000000&color=gradient"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_FOCUS-FLUTTER_MASTERY-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🐍_PYTHON-AUTOMATION_WIZARD-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚙️_VERSION_CONTROL-GIT_MASTER-9966CC?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
+</td>
+</tr>
+</table>
+
+<!-- Neon Metrics Dashboard with Glow -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,15,18,20,24&height=120&text=DEVELOPER%20METRICS%20DASHBOARD&fontSize=22&fontColor=00D9FF&textBg=true&desc=Real-time%20GitHub%20Analytics%20•%20Performance%20Insights&descSize=14&descAlignY=75&fontAlignY=45"/>
+
+<div style="background: linear-gradient(135deg, #1e1e2e 0%, #2d2d4a 100%); padding: 20px; border-radius: 15px; margin: 20px auto; width: 80%; box-shadow: 0 0 30px rgba(0, 217, 255, 0.3);">
+<table align="center" style="border: none;">
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=7Na7iD7&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS&logo=eye&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/7Na7iD7?style=for-the-badge&color=00D9FF&labelColor=1a1a1a&label=FOLLOWERS&logo=github"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/github/stars/7Na7iD7?style=for-the-badge&color=FFD700&labelColor=1a1a1a&label=TOTAL+STARS&logo=star"/>
+</td>
+<td align="center">
+<img src="https://badges.pufler.dev/years/7Na7iD7?style=for-the-badge&color=FF6B6B&labelColor=1a1a1a&logo=calendar"/>
+</td>
+</tr>
+</table>
 </div>
 
-<!-- Current Status Banner -->
-<img src="https://img.shields.io/badge/STATUS-Building%20Amazing%20Apps-00D9FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a1a" />
-<img src="https://img.shields.io/badge/FOCUS-Flutter%20%26%20Python%20Development-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1a1a" />
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Power Level Indicators -->
+<table align="center" style="border: none;">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/FLUTTER-LEVEL_95-00D9FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
+<br>
+<img src="https://progress-bar.dev/95?title=MASTERY&width=200&color=00D9FF"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/PYTHON-LEVEL_88-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=000000"/>
+<br>
+<img src="https://progress-bar.dev/88?title=EXPERTISE&width=200&color=FFD700"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/DART-LEVEL_92-9966CC?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000"/>
+<br>
+<img src="https://progress-bar.dev/92?title=PROFICIENCY&width=200&color=9966CC"/>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/GIT-LEVEL_90-FF6B6B?style=for-the-badge&logo=git&logoColor=white&labelColor=000000"/>
+<br>
+<img src="https://progress-bar.dev/90?title=MASTERY&width=200&color=FF6B6B"/>
+</td>
+</tr>
+</table>
+
+<!-- Epic Footer Animation -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&text=READY%20TO%20REVOLUTIONIZE%20THE%20DIGITAL%20WORLD&fontSize=18&fontColor=00D9FF&animation=fadeIn&desc=Let's%20Build%20Something%20Legendary%20Together!&descSize=14&fontAlignY=40&descAlignY=60"/>
 
 </div>
 
