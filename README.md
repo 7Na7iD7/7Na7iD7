@@ -153,20 +153,6 @@ Collaboration ██████████████████░░ 88%
 
 ---
 
-
-**🔧 Utility Tools**
-<br/>Helpful utilities for daily development
-<br/><code>Python • Git • Development Tools</code>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
 ## 🏆  Skills
 
 </div>
