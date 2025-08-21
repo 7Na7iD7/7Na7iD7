@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Professional Header with Custom Background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:161B22,30:21262D,50:30363D,70:484F58,100:6E7681&height=250&section=header&text=NAVID%20AFZALI&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Python%20Enthusiast&descAlignY=58&descSize=22"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,10:161B22,30:21262D,50:30363D,70:484F58,100:6E7681&height=250&section=header&text=NAVID%20AFZALI&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Dart%20Specialist&descAlignY=58&descSize=22"/>
 
 <!-- Clean Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Flutter+Mobile+Developer;🐍+Python+Automation+Expert;⚡+Git+%26+GitHub+Specialist;💡+Building+Digital+Solutions" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Flutter+Mobile+Developer;🎯+Dart+Programming+Specialist;⚡+Cross-Platform+App+Expert;💡+Building+Amazing+Mobile+Apps" alt="Typing Animation" />
 
 <!-- Real GitHub Statistics Dashboard -->
 <table align="center" style="border: none; margin: 30px 0;">
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/🚀_Currently-Building_Mobile_Apps-58A6FF?style=for-the-badge&labelColor=0D1117"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🎯_Focus-Flutter_&_Python-F85149?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🎯_Focus-Flutter_&_Dart-F85149?style=for-the-badge&labelColor=0D1117"/>
 </td>
 </tr>
 </table>
@@ -61,8 +61,8 @@ navid_afzali:
       
     programming_languages:
       primary: "Dart"
-      secondary: "Python" 
-      automation: "Python scripting & automation"
+      framework: "Flutter" 
+      specialization: "Mobile app development"
       
     version_control:
       system: "Git"
@@ -71,14 +71,13 @@ navid_afzali:
       
   current_focus:
     main: "Building amazing mobile apps with Flutter"
-    secondary: "Python automation and scripting"
-    learning: "Advanced Flutter techniques"
+    secondary: "Mastering advanced Dart programming"
+    learning: "Advanced Flutter techniques and patterns"
     
   life_philosophy: |
-    "Code is not just syntax and logic - it's a bridge between
-    human imagination and digital reality. Every bug is a lesson,
-    every feature is a story, and every project is a journey
-    toward making the world a little bit better."
+    "Every mobile app should be beautiful, fast, and useful.
+    Flutter gives me the power to create cross-platform 
+    experiences that users love on any device."
 ```
 
 ---
@@ -91,9 +90,9 @@ navid_afzali:
 
 <table align="center" style="border: none;">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 📱 **Mobile Development**
+### 📱 **Flutter Development**
 <div align="center">
 <img src="https://skillicons.dev/icons?i=dart,flutter" />
 
@@ -109,33 +108,12 @@ Cross-platform ███████████████████░ 92%
 - Cross-platform Mobile Apps
 - Material Design Implementation
 - Custom Widget Development  
+- State Management (Provider, BLoC)
 - Performance Optimization
 - App Store Deployment
 
 </td>
-<td width="33%" align="center" valign="top">
-
-### 🐍 **Python Ecosystem**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-
-**Mastery Level**
-```
-Python       ████████████████████ 88%
-Automation   ██████████████████░░ 85%
-Scripting    ███████████████████░ 90%
-Problem Solving ████████████████████ 92%
-```
-
-**Specialized Skills**
-- Automation Scripts
-- Data Processing
-- File Management
-- Web Scraping Basics
-- Task Automation
-
-</td>
-<td width="33%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 ### ⚙️ **Development Tools**
 <div align="center">
@@ -154,6 +132,7 @@ Collaboration ██████████████████░░ 88%
 - Repository Management
 - Collaboration Workflows
 - Code Review Process
+- CI/CD for Flutter Apps
 - Project Documentation
 
 </td>
