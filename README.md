@@ -221,17 +221,6 @@ solve real problems elegantly! ✨
 </tr>
 </table>
 
-### 🎮 Developer Stats
-```
-GitHub Commits: ████████████████████ Always improving
-Code Quality: ████████████████████ Clean & maintainable  
-Problem Solving: ████████████████████ Logical approach
-Collaboration: ████████████████████ Team player
-Learning Speed: ████████████████████ Always growing
-```
-
-</div>
-
 ---
 
 <div align="center">
