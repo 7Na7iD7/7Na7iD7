@@ -45,42 +45,7 @@
 
 ---
 
-## 🎭 Digital Identity Matrix
 
-```yaml
-navid_afzali:
-  version: "2.0.1"
-  architecture: "Flutter Mobile Developer"
-  location: "Iran 🇮🇷"
-  
-  core_modules:
-    mobile_development:
-      primary: ["Flutter", "Dart"]
-      platforms: ["Android", "iOS", "Web", "Desktop"]
-      expertise: "Cross-platform mobile applications"
-      
-    programming_languages:
-      primary: "Dart"
-      framework: "Flutter" 
-      specialization: "Mobile app development"
-      
-    version_control:
-      system: "Git"
-      platform: "GitHub"
-      workflow: "Professional development practices"
-      
-  current_focus:
-    main: "Building amazing mobile apps with Flutter"
-    secondary: "Mastering advanced Dart programming"
-    learning: "Advanced Flutter techniques and patterns"
-    
-  life_philosophy: |
-    "Every mobile app should be beautiful, fast, and useful.
-    Flutter gives me the power to create cross-platform 
-    experiences that users love on any device."
-```
-
----
 
 <div align="center">
 
