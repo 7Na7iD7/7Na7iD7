@@ -106,18 +106,6 @@ Collaboration ██████████████████░░ 88%
 
 ---
 
-<div align="center">
-
-## 📊 Analytics Dashboard
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Na7iD7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&dates=ffffff"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=7Na7iD7&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area_color=00D9FF&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline"/>
-
-</div>
-
----
-
 ## 🏆  Skills
 
 </div>
