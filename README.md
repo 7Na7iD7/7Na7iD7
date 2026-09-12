@@ -10,7 +10,7 @@
 <table align="center" style="border: none; margin: 20px 0;">
 <tr>
 <td align="center" width="35%">
-<img src="assets/profile-photo.png" width="240"/>
+<img src="Na7iD.png" width="240"/>
 </td>
 <td align="center" width="65%">
 <img src="assets/terminal_stats.svg" width="100%"/>
