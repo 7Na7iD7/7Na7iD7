@@ -6,18 +6,6 @@
 <!-- Clean Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Flutter+Mobile+Developer;🎯+Dart+Programming+Specialist;⚡+Cross-Platform+App+Expert;💡+Building+Amazing+Mobile+Apps" alt="Typing Animation" />
 
-<!-- Profile Photo + Live Terminal Stats -->
-<table align="center" style="border: none; margin: 20px 0;">
-<tr>
-<td align="center" width="35%">
-<img src="Na7iD.png" width="240"/>
-</td>
-<td align="center" width="65%">
-<img src="assets/terminal_stats.svg" width="100%"/>
-</td>
-</tr>
-</table>
-
 <!-- Real GitHub Statistics Dashboard -->
 <table align="center" style="border: none; margin: 30px 0;">
 <tr>
@@ -75,42 +63,42 @@
 
 **Mastery Level**
 ```
-Flutter        ████████████████████ 95%
-Dart           ███████████████████░ 93%
-State Mgmt     ██████████████████░░ 90%
+Flutter      ████████████████████ 95%
+Dart         ███████████████████░ 93%
+Mobile UI    ██████████████████░░ 90%
 Cross-platform ███████████████████░ 92%
 ```
 
 **Specialized Skills**
-- Cross-platform Mobile Apps (iOS, Android, Web)
-- Real-Time UI (chat, live analytics dashboards)
-- Riverpod & BLoC State Management
-- GoRouter Navigation & Clean Architecture
-- Persian / RTL Interface Design
-- PWA & Multi-Platform Deployment
+- Cross-platform Mobile Apps
+- Material Design Implementation
+- Custom Widget Development  
+- State Management (Provider, BLoC)
+- Performance Optimization
+- App Store Deployment
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### ⚙️ **Backend & Infrastructure**
+### ⚙️ **Development Tools**
 <div align="center">
-<img src="https://skillicons.dev/icons?i=rust,supabase,postgres,git,github" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 **Mastery Level**
 ```
-Rust (Axum)    █████████████████░░░ 85%
-Supabase       ██████████████████░░ 90%
-PostgreSQL/RLS ██████████████████░░ 88%
-Git & CI/CD    ████████████████████ 93%
+Git          ████████████████████ 93%
+GitHub       ███████████████████░ 91%
+Version Control ████████████████████ 95%
+Collaboration ██████████████████░░ 88%
 ```
 
 **Specialized Skills**
-- WebSocket Servers & JWT Auth (JWKS/ES256)
-- Postgres RLS & Edge Functions (Deno/TS)
-- GitHub Actions CI/CD Pipelines
-- Caching Strategies (SWR, circuit breakers)
-- Repository Management & Collaboration Workflows
-- Code Review & Project Documentation
+- Git Flow & Branching
+- Repository Management
+- Collaboration Workflows
+- Code Review Process
+- CI/CD for Flutter Apps
+- Project Documentation
 
 </td>
 </tr>
@@ -124,35 +112,29 @@ Git & CI/CD    ████████████████████ 93%
 
 <table align="center">
 <tr>
-<td align="center" width="20%">
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<td align="center" width="25%">
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <br/><strong>Flutter Expert</strong>
-<br/><sub>Mobile & Web Apps</sub>
-<br/><sub>Cross-platform Development</sub>
+<br/><sub>Mobile Development</sub>
+<br/><sub>Cross-platform Apps</sub>
 </td>
-<td align="center" width="20%">
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
-<br/><strong>Rust (Axum)</strong>
-<br/><sub>Real-Time Backends</sub>
-<br/><sub>WebSocket & Auth Systems</sub>
-</td>
-<td align="center" width="20%">
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg"/>
-<br/><strong>Supabase</strong>
-<br/><sub>Postgres, RLS & Auth</sub>
-<br/><sub>Edge Functions (Deno/TS)</sub>
-</td>
-<td align="center" width="20%">
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<td align="center" width="25%">
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <br/><strong>Python Developer</strong>
 <br/><sub>Automation Specialist</sub>
 <br/><sub>Scripting Expert</sub>
 </td>
-<td align="center" width="20%">
-<img width="70" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
+<td align="center" width="25%">
+<img width="80" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
 <br/><strong>Git & GitHub</strong>
 <br/><sub>Version Control Master</sub>
-<br/><sub>CI/CD & Collaboration</sub>
+<br/><sub>Collaboration Pro</sub>
+</td>
+<td align="center" width="25%">
+<img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
+<br/><strong>Dart Language</strong>
+<br/><sub>Core Programming</sub>
+<br/><sub>Mobile Development</sub>
 </td>
 </tr>
 </table>
@@ -210,9 +192,9 @@ Git & CI/CD    ████████████████████ 93%
 ### 🧠 Developer Profile
 ```json
 {
-  "preferred_languages": ["Dart", "Rust", "Python"],
-  "favorite_stack": "Flutter + Supabase (Obviously! 💙)",
-  "code_style": "Clean, layered, no hardcoded values",
+  "preferred_languages": ["Dart", "Python"],
+  "favorite_framework": "Flutter (Obviously! 💙)",
+  "code_style": "Clean, readable, and maintainable",
   "debugging_method": "Step-by-step logical thinking",
   "version_control": "Git guru with meaningful commits",
   "problem_solving": "Break it down, solve piece by piece",
